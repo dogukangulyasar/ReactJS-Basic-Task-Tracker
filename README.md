@@ -1,2 +1,9 @@
-# ReactJS-Basic-Task-Tracker
-Basic Task-Tracker Web App created with ReactJS.
+Basic Task Tracker Web Application created with ReactJS.
+
+### `npm start`
+
+### `npm test`
+
+### `npm run build`
+
+### `npm run eject`
